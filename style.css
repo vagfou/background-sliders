@@ -13,7 +13,6 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-image: url('https://raw.githubusercontent.com/vagfou/Expanding-Cards/main/images/a.jpg');
   background-position: center center;
   background-size: cover;
   transition: 0.4s ease;
